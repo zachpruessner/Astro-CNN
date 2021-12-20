@@ -169,6 +169,17 @@ When training the three models, 7 epochs were used, with a batch size of 32, and
 These are great numbers to start out with. Based on the above numbers, it appears as though Model 3 might be the ideal model. I propose this due to its performance on the
 validation set, rather than the training set.
 
+The predictions of the individual models are as follows:
+
+Model 1: 
+0.8507462686567164
+
+Model 2:
+1.0
+
+Model 3: 
+1.0
+
 ## Ideas for Further Research
 
 Additional research might take the form of different model structures and their respective performance.
